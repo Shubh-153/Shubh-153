@@ -16,7 +16,7 @@
 <br>
 Aspiring DevOps Engineer · Building in Public · Breaking things so you don't have to
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhgupta153)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubh153)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shubh_153_)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Shubh_153_)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://bento.me/shubh153)
@@ -96,7 +96,7 @@ const shubh = {
 $ ping shubh
 
 > Email   : shubhgupta194@gmail.com
-> LinkedIn: linkedin.com/in/shubhgupta153
+> LinkedIn: linkedin.com/in/shubh153
 > Instagram: @shubh_153_
 > X       : @Shubh_153_
 > Linktree: linktr.ee/shubh153
