@@ -19,7 +19,7 @@ Aspiring DevOps Engineer · Building in Public · Breaking things so you don't h
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubh153)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shubh_153_)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Shubh_153_)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)]((https://linktr.ee/shubh153?utm_source=linktree_profile_share&ltsid=6b3d4b75-d139-4d3c-87c2-09a6b1377eb3))
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://linktr.ee/shubh153)
 
 </div>
 
